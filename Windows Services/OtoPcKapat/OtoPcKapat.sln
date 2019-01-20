@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.106
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OtoPcKapat", "OtoPcKapat\OtoPcKapat.csproj", "{5700020A-FB30-47AF-AB1B-B435E5396B5D}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "OtoPcKapatma", "OtoPcKapatma\OtoPcKapatma.vdproj", "{033853D0-29B3-41B7-932C-00E9703BDFAA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5700020A-FB30-47AF-AB1B-B435E5396B5D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5700020A-FB30-47AF-AB1B-B435E5396B5D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5700020A-FB30-47AF-AB1B-B435E5396B5D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5700020A-FB30-47AF-AB1B-B435E5396B5D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{033853D0-29B3-41B7-932C-00E9703BDFAA}.Debug|Any CPU.ActiveCfg = Debug
+		{033853D0-29B3-41B7-932C-00E9703BDFAA}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6E85DD0B-982B-484A-82A7-F2420B1FE6C0}
+	EndGlobalSection
+EndGlobal
