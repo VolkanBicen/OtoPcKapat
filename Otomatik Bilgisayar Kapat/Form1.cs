@@ -22,16 +22,7 @@ namespace Otomatik_Bilgisayar_Kapat
 
         private void Form1_Load(object sender, EventArgs e)
         {
-            Process p = new Process();
-            p.StartInfo = new ProcessStartInfo("cmd", "/c \" sc stop OtoPcKapatma \"")
-            {
-                RedirectStandardOutput = true,
-                UseShellExecute = false,
-                CreateNoWindow = true
-            };
-            p.Start();
-       
-            p.WaitForExit();
+          
 
 
             DateTime dt = new DateTime();
@@ -60,18 +51,7 @@ namespace Otomatik_Bilgisayar_Kapat
                 tw.Write("");
                 tw.WriteLine(maskedTextBox1.Text);
                 tw.Close();
-
-                Process pr = new Process();
-                pr.StartInfo = new ProcessStartInfo("cmd", "/c \" sc start OtoPcKapatma \"")
-                {
-                    RedirectStandardOutput = true,
-                    UseShellExecute = false,
-                    CreateNoWindow = true
-                };
-                pr.Start();
-                pr.WaitForExit();
-
-
+                
                 Application.Exit();
             }
 
@@ -83,15 +63,6 @@ namespace Otomatik_Bilgisayar_Kapat
         private void Form1_FormClosing(object sender, FormClosingEventArgs e)
         {
 
-            Process pr = new Process();
-            pr.StartInfo = new ProcessStartInfo("cmd", "/c \" sc start OtoPcKapatma \"")
-            {
-                RedirectStandardOutput = true,
-                UseShellExecute = false,
-                CreateNoWindow = true
-            };
-            pr.Start();
-            pr.WaitForExit();
             Application.Exit();
         }
     }

@@ -8,3 +8,13 @@ C:\Users\Volkan\source\repos\OtoPcKapat\OtoPcKapat\obj\Debug\OtoPcKapat.csproj.G
 C:\Users\Volkan\source\repos\OtoPcKapat\OtoPcKapat\obj\Debug\OtoPcKapat.csproj.CoreCompileInputs.cache
 C:\Users\Volkan\source\repos\OtoPcKapat\OtoPcKapat\obj\Debug\OtoPcKapat.exe
 C:\Users\Volkan\source\repos\OtoPcKapat\OtoPcKapat\obj\Debug\OtoPcKapat.pdb
+C:\Users\Volkan\Documents\GitHub\OtoPcKapat\Windows Services\OtoPcKapat\OtoPcKapat\bin\Debug\OtoPcKapat.exe.config
+C:\Users\Volkan\Documents\GitHub\OtoPcKapat\Windows Services\OtoPcKapat\OtoPcKapat\bin\Debug\OtoPcKapat.exe
+C:\Users\Volkan\Documents\GitHub\OtoPcKapat\Windows Services\OtoPcKapat\OtoPcKapat\bin\Debug\OtoPcKapat.pdb
+C:\Users\Volkan\Documents\GitHub\OtoPcKapat\Windows Services\OtoPcKapat\OtoPcKapat\obj\Debug\OtoPcKapat.csprojAssemblyReference.cache
+C:\Users\Volkan\Documents\GitHub\OtoPcKapat\Windows Services\OtoPcKapat\OtoPcKapat\obj\Debug\OtoPcKapat.ProjectInstaller.resources
+C:\Users\Volkan\Documents\GitHub\OtoPcKapat\Windows Services\OtoPcKapat\OtoPcKapat\obj\Debug\OtoPcKapat.Service1.resources
+C:\Users\Volkan\Documents\GitHub\OtoPcKapat\Windows Services\OtoPcKapat\OtoPcKapat\obj\Debug\OtoPcKapat.csproj.GenerateResource.cache
+C:\Users\Volkan\Documents\GitHub\OtoPcKapat\Windows Services\OtoPcKapat\OtoPcKapat\obj\Debug\OtoPcKapat.csproj.CoreCompileInputs.cache
+C:\Users\Volkan\Documents\GitHub\OtoPcKapat\Windows Services\OtoPcKapat\OtoPcKapat\obj\Debug\OtoPcKapat.exe
+C:\Users\Volkan\Documents\GitHub\OtoPcKapat\Windows Services\OtoPcKapat\OtoPcKapat\obj\Debug\OtoPcKapat.pdb

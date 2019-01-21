@@ -44,7 +44,7 @@ namespace OtoPcKapat
             StreamReader sr1 = new StreamReader(dosyayolu);
 
             zaman = sr1.ReadLine();
-
+            sr1.Close();
            if (now == zaman)
              {
                  System.Diagnostics.Process.Start("shutdown", "-h");
