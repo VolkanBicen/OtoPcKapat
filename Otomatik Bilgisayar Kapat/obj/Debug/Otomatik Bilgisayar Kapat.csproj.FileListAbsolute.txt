@@ -8,3 +8,13 @@ C:\Users\Volkan\source\repos\Otomatik Bilgisayar Kapat\Otomatik Bilgisayar Kapat
 C:\Users\Volkan\source\repos\Otomatik Bilgisayar Kapat\Otomatik Bilgisayar Kapat\obj\Debug\Otomatik Bilgisayar Kapat.csproj.CoreCompileInputs.cache
 C:\Users\Volkan\source\repos\Otomatik Bilgisayar Kapat\Otomatik Bilgisayar Kapat\obj\Debug\Otomatik Bilgisayar Kapat.exe
 C:\Users\Volkan\source\repos\Otomatik Bilgisayar Kapat\Otomatik Bilgisayar Kapat\obj\Debug\Otomatik Bilgisayar Kapat.pdb
+C:\Users\Volkan\Documents\GitHub\OtoPcKapat\Otomatik Bilgisayar Kapat\bin\Debug\Otomatik Bilgisayar Kapat.exe.config
+C:\Users\Volkan\Documents\GitHub\OtoPcKapat\Otomatik Bilgisayar Kapat\bin\Debug\Otomatik Bilgisayar Kapat.exe
+C:\Users\Volkan\Documents\GitHub\OtoPcKapat\Otomatik Bilgisayar Kapat\bin\Debug\Otomatik Bilgisayar Kapat.pdb
+C:\Users\Volkan\Documents\GitHub\OtoPcKapat\Otomatik Bilgisayar Kapat\obj\Debug\Otomatik Bilgisayar Kapat.csprojAssemblyReference.cache
+C:\Users\Volkan\Documents\GitHub\OtoPcKapat\Otomatik Bilgisayar Kapat\obj\Debug\Otomatik_Bilgisayar_Kapat.Form1.resources
+C:\Users\Volkan\Documents\GitHub\OtoPcKapat\Otomatik Bilgisayar Kapat\obj\Debug\Otomatik_Bilgisayar_Kapat.Properties.Resources.resources
+C:\Users\Volkan\Documents\GitHub\OtoPcKapat\Otomatik Bilgisayar Kapat\obj\Debug\Otomatik Bilgisayar Kapat.csproj.GenerateResource.cache
+C:\Users\Volkan\Documents\GitHub\OtoPcKapat\Otomatik Bilgisayar Kapat\obj\Debug\Otomatik Bilgisayar Kapat.csproj.CoreCompileInputs.cache
+C:\Users\Volkan\Documents\GitHub\OtoPcKapat\Otomatik Bilgisayar Kapat\obj\Debug\Otomatik Bilgisayar Kapat.exe
+C:\Users\Volkan\Documents\GitHub\OtoPcKapat\Otomatik Bilgisayar Kapat\obj\Debug\Otomatik Bilgisayar Kapat.pdb
